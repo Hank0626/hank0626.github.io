@@ -1,10 +1,10 @@
 ---
 layout: post
-title:  "Revolutionize Text Deduplication in Large Language Models with Xorbits"
-description: "This article highlights the importance of text deduplication and introduces Xorbits' scalable solution to this problem."
-date: 2023-07-19
-category: ARTICLES
+title: Revolutionize Text Deduplication in Large Language Models with Xorbits
+description: This article highlights the importance of text deduplication and introduces Xorbits' scalable solution to this problem.
+date: 2023-07-19 21:01:00
 tags: distributed_system LLMs
+category: ARTICLES
 ---
 
 [Original source](https://xorbits.io/blogs/text-deduplicate)
