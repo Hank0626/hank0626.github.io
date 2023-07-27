@@ -1,4 +1,4 @@
 User-agent: *
 Disallow:
 
-Sitemap: https://hank0626.github.io/blog/sitemap.xml
+Sitemap: https://hank0626.github.io/sitemap.xml
