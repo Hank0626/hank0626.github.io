@@ -5,4 +5,4 @@ inline: True
 related_posts: false
 ---
 
-![](../assets/img/xprobe.png) Join [Xorbits](https://github.com/xorbitsai/xorbits) as an Intern in DOpen Source System Developer.
+![](../assets/img/xprobe.png) Join [Xorbits](https://github.com/xorbitsai/xorbits) as an Intern in Open Source System Developer.
