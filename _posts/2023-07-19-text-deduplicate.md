@@ -6,7 +6,7 @@ avatar: https://s.gravatar.com/avatar/e66d500c2129efaf478902382c3b84f770d7171c41
 excerpt: "This article highlights the importance of text deduplication and introduces Xorbits' scalable solution to this problem."
 date: 2023-07-19
 category: ARTICLES
-tags: distributed system, LLMs
+tags: distributed system LLMs
 ---
 
 ## Introduction
