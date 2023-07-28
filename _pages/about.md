@@ -8,6 +8,8 @@ profile:
   align: right
   image: me.jpg
   image_circular: True # crops the image to make it circular
+  address: >
+    <script type="text/javascript" id="clustrmaps" src="//clustrmaps.com/map_v2.js?d=HKSwnsvkSW7bWeNH6dYns5gCBR9bNb4lWZ1JNSnhEcA&cl=ffffff&w=a"></script>
 
 news: true  # includes a list of news items
 latest_posts: false  # includes a list of the newest posts
@@ -16,7 +18,3 @@ social: false  # includes social icons at the bottom of the page
 ---
 
 I am currently a master's student at [Tsinghua University](https://www.tsinghua.edu.cn), advised by professor [Shu-Tao Xia](https://www.sigs.tsinghua.edu.cn/xst/main.htm) and [Tao Dai](http://cstaodai.com/). I was previously an undergraduate of [Zhejiang University](https://www.zju.edu.cn) and [the University of Illinois at Urbana-Champaign](https://illinois.edu), where I studied Computer Engineering. I have had the privilege of interning at [Oneflow](https://www.oneflow.org/) and [Xorbits](https://www.xorbits.io/), where I applied my academic knowledge to practical challenges and gained invaluable industry experience. My research interests include generative models, long-term time-series forecasting, and gaussian processes.
-
-<div style="display: flex; justify-content: center;">
-    <script type="text/javascript" id="clustrmaps" src="//clustrmaps.com/map_v2.js?d=HKSwnsvkSW7bWeNH6dYns5gCBR9bNb4lWZ1JNSnhEcA&cl=ffffff&w=a"></script>
-</div>
