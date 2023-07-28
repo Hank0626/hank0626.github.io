@@ -65,7 +65,7 @@
   "awards": [],
   "certificates": [],
   "publications": [],
-  "skills": ["python", "c++", "Pytorch", "distributed system", "LLMs"],
+  "skills": [{"skill": "python"}, {"skill": "c++"}, {"skill": "Pytorch"}, {"skill": "distributed system"}, {"skill": "LLMs"}],
   "languages": [
     {
       "language": "Mandarin",
@@ -76,7 +76,7 @@
       "fluency": "Fluent"
     }
   ],
-  "interests": ["tennis", "rubik's cube", "photography"],
+  "interests": [{"interest": "tennis"}, {"interest": "rubik's cube"}, {"interest": "photography"}],
   "references": [],
   "projects": []
 }
