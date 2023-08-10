@@ -1,6 +1,6 @@
 ---
 layout: about
-title: about
+title: About
 permalink: /
 subtitle: master@<a href='https://www.tsinghua.edu.cn'>THU</a>
 
