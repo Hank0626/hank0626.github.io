@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-I graduate from ![](../assets/img/zju.png) [Zhejiang University](https://www.zju.edu.cn) and ![](../assets/img/uiuc.png) [University of Illinois Urbana-Champaign](https://illinois.edu).
+🎉 Graduate from ![](../assets/img/zju.png) [Zhejiang University](https://www.zju.edu.cn) and ![](../assets/img/uiuc.png) [University of Illinois Urbana-Champaign](https://illinois.edu).
