@@ -9,9 +9,9 @@ last_name: Liu
 email: lpy23@mails.tsinghua.edu.cn
 description: > # the ">" symbol means to ignore newlines until "footer_text:"
   Graduated with a Computer Engineering degree from [ZJU](https://www.zju.edu.cn/) and [UIUC](https://illinois.edu), now pursuing a Master's degree at [THU](https://www.tsinghua.edu.cn/).
-footer_text: >
-  Powered by <a href="https://jekyllrb.com/" target="_blank">Jekyll</a> with <a href="https://github.com/alshedivat/al-folio">al-folio</a> theme.
-  Hosted by <a href="https://pages.github.com/" target="_blank">GitHub Pages</a>.
+# footer_text: >
+#   Powered by <a href="https://jekyllrb.com/" target="_blank">Jekyll</a> with <a href="https://github.com/alshedivat/al-folio">al-folio</a> theme.
+#   Hosted by <a href="https://pages.github.com/" target="_blank">GitHub Pages</a>.
 keywords: jekyll, jekyll-theme, academic-website, portfolio-website  # add your own keywords or leave empty
 
 lang: en # the language of your site (for example: en, fr, cn, ru, etc.)
