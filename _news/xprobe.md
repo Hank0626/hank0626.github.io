@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-![](../assets/img/xprobe.png) Join [Xorbits](https://github.com/xorbitsai/xorbits) as an Intern in Open Source System Developer.
+![](../assets/img/xprobe.png) Join Hangzhou [Xorbits](https://github.com/xorbitsai/xorbits) Tech Co., Ltd as an Intern in Open Source System Developer.
