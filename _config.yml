@@ -273,8 +273,8 @@ jekyll-minifier:
 
 scholar:
 
-  last_name: [Liu, Liu*]
-  first_name: [Peiyuan, Peiyuan*]
+  last_name: [Liu, Liu*, Liu$^\dagger$]
+  first_name: [Peiyuan, Peiyuan*, Peiyuan$^\dagger$]
 
   style: apa
   locale: en
