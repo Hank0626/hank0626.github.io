@@ -15,7 +15,7 @@ nav_order: 1
 </script>
 <script src="https://cdnjs.cloudflare.com/ajax/libs/mathjax/3.2.0/es5/tex-mml-chtml.min.js" integrity="sha384-R4Ooq3D9I1no8pt7thk3GSDB2X5A/eWYwJ8HfpWiZjbbKzLjoFDjFYZE5bFBfvsD" crossorigin="anonymous"></script>
 
-\(^\ast\) Equal contribution. \(^\dagger\) Corresponding author.
+<em style="color: #808000;"">\(^*\) Equal contribution. \(^\dagger\) Corresponding author.</em>
 </p>
 
 <!-- _pages/publications.md -->
