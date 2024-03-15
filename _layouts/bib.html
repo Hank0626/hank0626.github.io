@@ -42,7 +42,7 @@
 
         {%- for author in entry.author_array limit: author_array_limit -%}
           {%- assign author_is_self = false -%}
-          {%- assign author_last_name = author.last | remove: "¶" | remove: "&" | remove: "*" | remove: "†" | remove: "^" | remove: "\(" | remove: "\)" | remove: "\\" | remove: "dagger"  -%}
+          {%- assign author_last_name = author.last | replace: '\(^\dagger\)', '' | remove: "¶" | remove: "&" | remove: "*" | remove: "†" | remove: "^" | remove: "\(" | remove: "\)" | remove: "\\"  -%}
           {%- if site.scholar.last_name contains author_last_name -%}
             {%- if site.scholar.first_name contains author.first -%}
               {%- assign author_is_self = true -%}
@@ -63,7 +63,7 @@
             {%- if forloop.last and author_array_limit == author_array_size -%}and&nbsp;{%- endif -%}
           {%- endif -%}
           {%- if author_is_self -%}
-            <em style="color: #FF0000;">{{author.first}} {{author.last}}</em>
+            <em style="color: #a60a74; font-weight: bold;">{{author.first}} {{author.last}}</em>
           {%- else -%}
             {%- if coauthor_url -%}
               <a href="{{coauthor_url}}">{{author.first}} {{author.last}}</a>
