@@ -57,21 +57,23 @@ layout: default
             <h2><a href="{{ '/publications/' | relative_url }}" style="color: inherit;">Publications</a></h2>
             {%- include selected_papers.html %}
           {%- endif %} -->
+          <!-- Selected papers -->
           {% if page.selected_papers -%}
-          <h2><a href="{{ '/publications/' | relative_url }}" style="color: inherit;">Publications</a></h2>
-          {%- include selected_papers.html %}
-        
-          <!-- Adding LaTeX annotations for equal contribution and corresponding author -->
-          <p>
-            <script type="text/x-mathjax-config">
-              MathJax.Hub.Config({
-                tex2jax: {inlineMath: [['\\(','\\)']]}
-              });
-            </script>
-            <script src="https://cdnjs.cloudflare.com/ajax/libs/mathjax/3.2.0/es5/tex-mml-chtml.min.js" integrity="sha384-R4Ooq3D9I1no8pt7thk3GSDB2X5A/eWYwJ8HfpWiZjbbKzLjoFDjFYZE5bFBfvsD" crossorigin="anonymous"></script>
-          
-            \(^\ast\) Equal contribution. \(^\dagger\) Corresponding author.
-          </p>
+            <h2><a href="{{ '/publications/' | relative_url }}" style="color: inherit;">Publications</a></h2>
+            
+            <!-- LaTeX annotations for equal contribution and corresponding author -->
+            <p>
+              <script type="text/x-mathjax-config">
+                MathJax.Hub.Config({
+                  tex2jax: {inlineMath: [['\\(','\\)']]}
+                });
+              </script>
+              <script src="https://cdnjs.cloudflare.com/ajax/libs/mathjax/3.2.0/es5/tex-mml-chtml.min.js" integrity="sha384-R4Ooq3D9I1no8pt7thk3GSDB2X5A/eWYwJ8HfpWiZjbbKzLjoFDjFYZE5bFBfvsD" crossorigin="anonymous"></script>
+
+              \(^\ast\) Equal contribution. \(^\dagger\) Corresponding author.
+            </p>
+
+            {%- include selected_papers.html %}
           {%- endif %}
 
           <!-- Social -->
