@@ -7,7 +7,7 @@ nav: true
 nav_order: 1
 ---
 
-\* Equal contribution. ⁺ Corresponding author.
+\(^\*\) Equal contribution. \(^\dagger\) Corresponding author.
 
 <!-- _pages/publications.md -->
 <div class="publications">
