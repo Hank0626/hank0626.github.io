@@ -3,8 +3,9 @@ github_users:
 
 github_repos:
   - shengyuhao/DIVOTrack
-  - Oneflow-Inc/oneflow
   - Oneflow-Inc/diffusers
   - xorbitsai/xorbits
-  - Hank0626/FPGA-Game-Design
   - Hank0626/WFTNet
+  - Hank0626/PDF
+  - Hank0626/CALF
+
